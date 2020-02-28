@@ -1,38 +1,39 @@
 h1
 {
-	color: red;
+	color: black;
 	text-align: right;
-    text-shadow: 8px 8px 10px orange;
+    text-shadow: 8px 8px 10px gray;
 	font-size: 7pc;	
 	font-family: 'MendoanScript', serif;
-	border: 6px red groove;   
+	border: 6px green groove;   
 	border-radius: 30px;
-	box-shadow: 15px 15px 20px orange;
+	box-shadow: 15px 15px 20px blue;
 
 
 }
 
 h2
 {
-	color: orange;
+	color: blue;
 	font-size: 160px;
 	text-align: left; 
-	border: 6px red groove;   
-	border-radius: 10px;
+	border: 6px green groove;   
+	border-radius: 30px;
+	box-shadow: 15px 15px 20px blue;
 	font-family: 'MendoanScript', Arial, serif;
 
 }
 
 body
 {
-	background-image: url(image2.jpg);
+	background-image: url(image1.jpg);
 	text-shadow: 4px 4px 8px black;
 }
 
 p
 {
 	font-size: 3pc;
-	color: green;
+	color: black;
 }
 
 @font-face {
