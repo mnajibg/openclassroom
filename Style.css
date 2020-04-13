@@ -2,13 +2,9 @@
 
 body
 {
-
-margin-left: auto;
-
-margin-right: auto;
-
-
-margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
 }
 
  	
@@ -22,7 +18,7 @@ aside
 header
 {
 	display: flex;
-	justify-content: flex-end;
+	justify-content: flex-start;
 }
 
 h1
